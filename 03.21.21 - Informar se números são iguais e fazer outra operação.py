@@ -1,0 +1,9 @@
+#Faça um algoritmo que leia dois valores inteiros A e B se os valores forem iguais deverá se somar os dois, caso contrário multiplique A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu conteúdo na tela.
+
+n1=float(input('A: '))
+n2=float(input('B: '))
+
+if n1==n2:
+    print('C:',n1+n2)
+else:
+    print('C:',n1*n2)
