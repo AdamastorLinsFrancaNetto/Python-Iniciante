@@ -5,16 +5,16 @@ i=1
 while i<=50:
     print(i, end=', ')
     i=i+1
-print('\n')
+print('')
 i=50
 while i>=1:
     print(i, end=', ')
     i=i-1
-
+print('')
 #for
 for i in range(1, 51, 1):
-    print(i, end=" ")
-print("")
+    print(i, end=", ")
+print('')
 for i in range(50, 0, -1):
-    print(i, end=" ")
+    print(i, end=", ")
 

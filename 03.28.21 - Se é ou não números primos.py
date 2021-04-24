@@ -17,8 +17,7 @@ elif log==bool(0):
     print(f'{n1} é um número primo.')
 elif log!=bool(0):
     print(f'{n1} NÃO é um número primo.')
-print(n1)
-print(count)
+
 
 
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/JogoBeeHoney/.idea/JogoBeeHoney.iml" filepath="$USER_HOME$/PycharmProjects/JogoBeeHoney/.idea/JogoBeeHoney.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/JogoFutebolPong/.idea/JogoFutebolPong.iml" filepath="$USER_HOME$/PycharmProjects/JogoFutebolPong/.idea/JogoFutebolPong.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/ProjectGame/.idea/ProjectGame.iml" filepath="$USER_HOME$/PycharmProjects/ProjectGame/.idea/ProjectGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python-Iniciante.iml" filepath="$PROJECT_DIR$/.idea/Python-Iniciante.iml" />
+    </modules>
+  </component>
+</project>
