@@ -8,11 +8,11 @@ for i in range(10):
 search = int(input("Qual item queres verificar se está incluso na lista? "))
 count = 0
 
-for i in range(len(list)):
+for i in range(len(listNumbers)):
     if listNumbers[i] == search:
         print(f"Achei! Está na posição {i} da lista.")
     else:
         count+=1
-if count == 10:
+if count == len(listNumbers):
     print("Não achei na lista!")
 
