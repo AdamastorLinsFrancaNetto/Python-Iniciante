@@ -5,7 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ProjectGame" />
-    <orderEntry type="module" module-name="JogoFutebolPong" />
-    <orderEntry type="module" module-name="JogoBeeHoney" />
+    <orderEntry type="module" module-name="." />
+    <orderEntry type="module" module-name=".." />
   </component>
 </module>
